@@ -19,7 +19,7 @@ This method is perfect for a quick test or a one-time evaluation.
 
 1.  **Open in Colab:** Click the button below.
     
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HosoyaYusakuu/rag-embedding-evaluation-tool/blob/main/Your-Notebook-File.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HosoyaYusaku/rag-embedding-evaluation-tool/blob/main/rag_embedding_evaluation_tool.ipynb)
 
 2.  **Important:** This opens a temporary notebook. To save your work, you **must** save a copy to your own Google Drive (`File` -> `Save a copy in Drive`).
 3.  **Set API Key:** Add your OpenAI API key to Colab's "Secrets" manager (look for the 🔑 icon on the left) with the name `OPENAI_API_KEY`.
@@ -62,7 +62,7 @@ RAG（Retrieval-Augmented Generation）で利用する埋め込みモデルの�
 
 1.  **Colabで開く:** 下のボタンをクリックします。
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HosoyaYusakuu/rag-embedding-evaluation-tool/blob/main/Your-Notebook-File.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HosoyaYusaku/rag-embedding-evaluation-tool/blob/main/rag_embedding_evaluation_tool.ipynb)
 
 2.  **重要:** この方法では一時的なノートブックが開きます。作業内容を保存するには、**必ず**ご自身のGoogleドライブにコピーを保存してください（`ファイル` > `ドライブにコピーを保存`）。
 3.  **APIキーの設定:** Colabの「シークレット」機能（左側の`🔑`アイコン）で、`OPENAI_API_KEY`という名前であなたのOpenAI APIキーを登録します。
